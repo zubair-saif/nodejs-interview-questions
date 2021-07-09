@@ -101,7 +101,19 @@ Node.js is an open-source server side runtime environment built on Chrome\'s V8 
 
 ## Q. ***What are the benefits of using Node.js?***
 
-*ToDo*
+- The ability to scale up quickly
+- Speed and Performance
+- Flexibility
+- The accessibility of a single programming language
+- Efficient caching 
+- Fast-to-market-development 
+- An active user community
+- Efficient Queueing of Requests
+- Easy to master
+- A better choice for mobile
+- Real-time communication 
+- Node Package Manager for Enterprise 
+- Cross-platform development 
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
